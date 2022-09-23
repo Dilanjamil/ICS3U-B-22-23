@@ -4,7 +4,7 @@ public class Exampletwo {
     public static void main(String[] args) {
     int age1 = 16, age2 = 17, age3 = 20;
     double averageAge; 
-    final int NUMBER_OF_STUDENTS = 3 // do not declare as a double  
+    final int NUMBER_OF_STUDENTS = 3; // do not declare as a double  
 
 
     averageAge = (age1 + age2 + age3) / 3;
